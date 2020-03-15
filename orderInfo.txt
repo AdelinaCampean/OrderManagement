@@ -1,0 +1,7 @@
+FACTURĂ
+
+Comanda contine: 
+Produsul hartie cu id: 5
+Au fost comandate 2 bucati.
+Produsul a fost comandat de :
+Clientul Adelina, cu id: 1 si varsta de 20 ani
